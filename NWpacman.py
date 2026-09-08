@@ -4,7 +4,7 @@ from ion import keydown, KEY_UP, KEY_DOWN, KEY_LEFT, KEY_RIGHT, KEY_OK, KEY_BACK
 from random import choice
 
 # --- Game Settings ---
-FPS_DELAY = 0.025  # Smooth, classic arcade speed limit
+FPS_DELAY = 0.025
 CW = 7        
 OX = 62       
 OY = 2        
